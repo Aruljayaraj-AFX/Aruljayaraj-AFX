@@ -23,6 +23,4 @@ Software Engineer Student @ Grace College Of Engineering
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArulJayaraj-&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aruljayarajj826?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/aruljayarajj826/)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aruljayaraj-AFX&bg_color=000000&color=989dc3&line=7085f0&point=7f8ff4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
